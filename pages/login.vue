@@ -6,6 +6,7 @@
           <h1 class="text-xs-center">Sign up</h1>
           <p class="text-xs-center">
             <a href="">Have an account?</a>
+            <a href="">Need an account?</a>
           </p>
 
           <ul class="error-messages">
